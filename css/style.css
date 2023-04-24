@@ -1,0 +1,39 @@
+.header {
+    background-color:#D5E1EF;
+    height: 800px
+
+} 
+.box{
+    position: absolute;
+    padding-top: 16px;
+    width: 320px;
+    height: 497px;
+    left: 560px;
+    top: 152px;
+    background: #FFFFFF;
+    box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+    border-radius: 20px;
+}
+.little-box {
+    width: 320px;
+    height: 497px;
+    text-align: center;
+  }
+ h1 {
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    line-height: 28px;
+    text-align: center;
+    
+ }
+ p {
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.1875px;
+    color: #7D889E;
+ }
